@@ -41,3 +41,11 @@ https://css-tricks.com/snippets/css/using-font-face/
 
 https://icomoon.io/
 
+---
+
+# Lembretes
+
+- o display flex deve sempre ir na tag mãe
+- ctrl + shift + r para dar refresh no browser, para limpar o cache
+- não setar tamanho (somente flex-basis: 30%;)
+- não usar px

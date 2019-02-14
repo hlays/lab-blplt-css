@@ -1,7 +1,10 @@
   .container-1 div, .container-2 div{
+    border: 2px solid blueviolet;
   }
 
   .container-1{
+    display: flex;
+    
   }
   
   .box-1{
@@ -14,7 +17,10 @@
   }
 
   .container-2{
+    display: flex;
+    flex-wrap: wrap;
   }
   
   .container-2-box{
+    flex-basis: 30%;
   }
